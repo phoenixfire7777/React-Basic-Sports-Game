@@ -1,0 +1,48 @@
+.App{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid black;
+    background-image: url(https://www.pngkey.com/png/full/58-585635_football-score-sports-free-png-freeuse-stock-clip.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.style{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width:;
+}
+
+.stats{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: cyan;
+    border: 1px solid black;
+    
+}
+.VS {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: green;
+    font-size: 75px;
+    background-color: coral;
+}
+
+button { 
+    /* the sorce of this css came from davey  */
+    display: block;
+    margin-top: 1rem;
+    width: 100%;
+    padding: 0.5rem;
+    background-color: #fc0;
+    border: 0;
+    
+    text-transform: uppercase;
+    font-size: 1.2em;
+    box-shadow: 2px 2px 0 black;
+  }
